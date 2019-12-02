@@ -26,7 +26,7 @@ affiliations:
 citation_author: Yaseen, M. et. al.
 date: 31 October 2019
 year: 2019
-formatted_doi: 10.21105/joss.00388
+formatted_doi: 
 bibliography: paper.bib
 output: rticles::joss_article
 csl: apa.csl
